@@ -32,6 +32,7 @@ Cloud-hosted APIs for capturing website screenshots programmatically.
 | [Stillio](https://stillio.com) | None | From $29/mo | Automated scheduled captures, archiving |
 | [PagePeeker](https://pagepeeker.com) | Yes (watermark) | From $5/mo | Thumbnail generation, bulk capture |
 | [Thum.io](https://www.thum.io) | Yes | Custom | Real-time website thumbnails |
+| [ScreenshotRun](https://screenshotrun.com) | Yes | From $5/mo | Full page, viewport config, batch capture, REST API |
 
 ## Open Source Libraries
 
